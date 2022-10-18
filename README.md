@@ -1,18 +1,11 @@
 <h1 align="center">Hi 👋, I'm Francesco Maresca</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<div class="slide-code"><pre><code><span class="comment"># Python 3: Fibonacci series up to n</span>
-&gt;&gt;&gt;     def hello():
-&gt;&gt;&gt;        name = input("Welcome to my profile, I'm Francesco. What's your name?")
-&gt;&gt;&gt;        print("Hi, " + name + "!")
-&gt;&gt;&gt;     hello()
+```text
+def hello():
+  name = input("Welcome to my profile, I'm Francesco. What's your name?")
+  print("Hi, " + name + "!")
 
-<span class="output">0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987</span></code></pre></div>
-
-
-  
-  
-  
 ```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmerhelloworld&label=Profile%20views&color=0e75b6&style=flat" alt="programmerhelloworld" /> </p>
