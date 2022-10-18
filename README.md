@@ -2,19 +2,16 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 <div class="slide-code"><pre><code><span class="comment"># Python 3: Fibonacci series up to n</span>
-&gt;&gt;&gt; def fib(n):
-&gt;&gt;&gt;     a, b = 0, 1
-&gt;&gt;&gt;     while a &lt; n:
-&gt;&gt;&gt;         print(a, end=' ')
-&gt;&gt;&gt;         a, b = b, a+b
-&gt;&gt;&gt;     print()
-&gt;&gt;&gt; fib(1000)
+&gt;&gt;&gt;     def hello():
+&gt;&gt;&gt;        name = input("Welcome to my profile, I'm Francesco. What's your name?")
+&gt;&gt;&gt;        print("Hi, " + name + "!")
+&gt;&gt;&gt;     hello()
+
 <span class="output">0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987</span></code></pre></div>
 
-```text
-def hello():
-  name = input("Welcome to my profile, I'm Francesco. What's your name?")
-  print("Hi, " + name + "!")
+
+  
+  
   
 ```
 
