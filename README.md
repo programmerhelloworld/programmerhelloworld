@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Francesco Maresca</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+```text
+def hello():
+  name = input("Welcome to my profile, I'm Francesco. What's your name?")
+  print("Hi, " + name + "!")
+  
+```
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmerhelloworld&label=Profile%20views&color=0e75b6&style=flat" alt="programmerhelloworld" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programmerhelloworld" alt="programmerhelloworld" /></a> </p>
