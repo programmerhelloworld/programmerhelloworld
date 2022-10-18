@@ -1,52 +1,8 @@
-# Awesome GitHub profiles
+<div class="_2ufc7"><div id="ContainermainPage" class="_1KV2M"><div data-mesh-id="ContainermainPageinlineContent" data-testid="inline-content" class=""><div data-mesh-id="ContainermainPageinlineContent-gridContainer" data-testid="mesh-container-content"><div id="comp-kwzbrjs4" class="_2KixH" style="--height:68px;"><div id="text-content-comp-kwzbrjs4" class="_1Q9if _3bcaz" data-testid="richTextElement"><h1 class="font_0" style="font-size:28px"><span style="font-size:28px">Breve<br>
+presentazione</span></h1></div></div><div id="comp-kwzb8hwe" class="_2KixH" style="--height:180px;"><div id="text-content-comp-kwzb8hwe" class="_2Hij5 _3bcaz" data-testid="richTextElement"><p class="font_7" style="font-size:20px; line-height:normal"><span style="letter-spacing:normal"><span style="font-size:20px">Sono uno studente 👨🏻‍🎓 e un programmatore 👨🏻‍💻 dal 2020.</span></span></p>
 
-![.github/workflows/main.yml](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/workflows/.github/workflows/main.yml/badge.svg)
+<p class="font_7" style="font-size:20px; line-height:normal"><span style="letter-spacing:normal"><span style="font-size:20px"><span class="wixGuard">​</span></span></span></p>
 
-List of GitHub profiles that have awesome customization, that you can use for inspiration.\
-Feel free to submit a [pull request](https://github.com/EddieHubCommunity/awesome-github-profiles/pulls) with your suggestions for awesome GitHub profiles.
+<p class="font_7" style="font-size:20px; line-height:normal"><span style="letter-spacing:normal"><span style="font-size:20px">Mi piace scrivere articoli di informatica 💻, di elettronica 🪛 e di attualità 📰.</span></span></p>
 
-<p align="center">
-  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love badge" />
- </a>
-  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="made with markdown badge" />
- </a>
-  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/open-source.svg" alt="open source badge" />
- </a>
- <br />
- <a href="https://eddiehubcommunity.github.io/awesome-github-profiles/" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/check-it-out.svg" alt="check it out badge" />
- </a>
-  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="built by developers badge" />
- </a>
-</p>
-
-## How can I add my GitHub profile? 🤷‍♀️🤷‍♂️
-
-1. Create an [issue](https://github.com/EddieHubCommunity/awesome-github-profiles/issues), with the title as your name, and in the description put a screenshot of the customised GitHub profile page (copy the generated image URL, this will be needed in the next step)
-
-2. Fork the project, using the top right corner button, that states `fork`
-
-3. Create a file named `your-username.json` in the directory [`profiles`](/profiles) with the following content.
-
-> <span style="color: #606c71">Your entry should be similar to this example:</span>
-
-```json
-{
-  "image": "https://user-images.githubusercontent.com/624760/91057573-48531300-e61f-11ea-9e13-2d7384e42000.png",
-  "issueId": 66,
-  "name": "Eddie Jaoude",
-  "username": "eddiejaoude"
-}
-```
-
-4. Create a [Pull Request](https://github.com/EddieHubCommunity/awesome-github-profiles/pulls) to add the changes to this repository. Please change the title to `fix: add <your-username>` and in the description add `resolve #issueNumber`
-
-## Check out our awesome profiles [here](https://eddiehubcommunity.github.io/awesome-github-profiles/)
-
-### Any questions, feel free to let us know!
-
-**Join the conversation on our [Discord community](http://discord.eddiehub.org)!**
+<p class="font_7" style="font-size:20px; line-height:normal"><span style="letter-spacing:normal"><span style="font-size:20px"><span class="wixGuard">​</span></span></span></p></div></div><div class="_2UgQw" id="comp-kyobdqte" aria-disabled="false"><a data-testid="linkElement" href="https://f90abafd-3694-4b7a-a9fb-2a3d59adb4a5.filesusr.com/ugd/360e3a_3a6e691e4d3b42a2a8f9f4f9831a49d1.pdf" target="_blank" class="_1fbEI" aria-disabled="false"><span class="_1Qjd7">Curriculum Europass</span></a></div><div id="comp-kxkl6v1e" class="_2KixH" style="--height:34px;"><div id="text-content-comp-kxkl6v1e" class="_2Hij5 _3bcaz" data-testid="richTextElement"><h1 class="font_0" style="font-size:28px; line-height:normal"><span style="letter-spacing:normal"><span style="font-size:28px">Interessi Matematici</span></span></h1></div></div><div id="comp-kxkl7e4i" class="_2KixH" style="--height:27px;"><div id="text-content-comp-kxkl7e4i" class="_2Hij5 _3bcaz" data-testid="richTextElement"><h1 class="font_0" style="font-size:20px; line-height:normal"><span style="letter-spacing:normal"><span style="font-size:20px"><span style="text-decoration:underline;"><a href="https://it.wikipedia.org/wiki/Congettura_di_Collatz" target="_blank" rel="noreferrer noopener">Congettura di Collatz</a></span> 🔢.</span></span></h1></div></div><div id="comp-kwzbk5e6" class="_2KixH" style="--height:105px;"><div id="text-content-comp-kwzbk5e6" class="_2Hij5 _3bcaz" data-testid="richTextElement"><h1 class="font_0" style="font-size:20px; line-height:normal"><span style="letter-spacing:normal"><span style="font-size:28px">Sottocategorie preferite dell'informatica ‍💻</span></span></h1></div></div><div id="comp-kwzblk14" class="_2KixH" style="--height:106px;"><div id="text-content-comp-kwzblk14" class="_2Hij5 _3bcaz" data-testid="richTextElement"><h1 class="font_0" style="font-size:20px; line-height:normal"><span style="letter-spacing:normal"><span style="font-size:20px">Internet of Things (IoT)* 🌐, Big Data* 💾, Intelligenza Artificiale* 🤖, Programmazione 🖥️.</span></span></h1></div></div><div id="comp-kwzbwgl0" class="_2KixH" style="--height:78px;"><div id="text-content-comp-kwzbwgl0" class="_1Q9if _3bcaz" data-testid="richTextElement"><h1 class="font_0" style="font-size: 16px;"><span style="font-size:16px;">*a questi argomenti ho dedicato una ricerca, clicca qui per leggere il contenuto!</span></h1></div></div><div id="comp-kwzc1wxq" class="_11gHK"><div data-mesh-id="comp-kwzc1wxqinlineContent" data-testid="inline-content" class=""><div data-mesh-id="comp-kwzc1wxqinlineContent-gridContainer" data-testid="mesh-container-content"><form id="comp-kwzc1wyg" class=""><div class="yBJuM _3_X_x"></div><div data-mesh-id="comp-kwzc1wyginlineContent" data-testid="inline-content" class=""><div data-mesh-id="comp-kwzc1wyginlineContent-gridContainer" data-testid="mesh-container-content"><div id="comp-kwzc1wym" class="_2KixH" style="--height:35px;"><div id="text-content-comp-kwzc1wym" class="_1Q9if _3bcaz" data-testid="richTextElement"><h6 class="font_6" style="font-size:19px">Contattami</h6></div></div><div id="comp-kwzc1wyq" style="--height:53px;"><div id="content-comp-kwzc1wyq" class="_2dBhC _2nVk2"><label for="input_content-comp-kwzc1wyq" class="aHD7c">Nome</label><div class="XRJUI"><input name="nome" id="input_content-comp-kwzc1wyq" class="_1SOvY has-custom-focus" type="text" placeholder="" aria-required="false" maxlength="100" value=""></div></div></div><div id="comp-kwzc1wyu1" style="--height:53px;"><div id="content-comp-kwzc1wyu1" class="_2dBhC _2nVk2"><label for="input_content-comp-kwzc1wyu1" class="aHD7c">Cognome</label><div class="XRJUI"><input name="cognome" id="input_content-comp-kwzc1wyu1" class="_1SOvY has-custom-focus" type="text" placeholder="" aria-required="false" maxlength="100" value=""></div></div></div><div id="comp-kwzc1wyz" style="--height:53px;"><div id="content-comp-kwzc1wyz" class="_2dBhC _2nVk2 _65cjg"><label for="input_content-comp-kwzc1wyz" class="aHD7c">Email</label><div class="XRJUI"><input name="email" id="input_content-comp-kwzc1wyz" class="_1SOvY has-custom-focus" type="email" placeholder="" required="" aria-required="true" pattern="^.+@.+\.[a-zA-Z]{2,63}$" maxlength="250" value=""></div></div></div><div id="comp-kwzc1wz3" style="--height:53px;"><div id="content-comp-kwzc1wz3" class="_2dBhC _2nVk2"><label for="input_content-comp-kwzc1wz3" class="aHD7c">Oggetto</label><div class="XRJUI"><input name="oggetto" id="input_content-comp-kwzc1wz3" class="_1SOvY has-custom-focus" type="text" placeholder="" aria-required="false" maxlength="50" value=""></div></div></div><div id="comp-kwzc1wzc" class="bItEI _1mQNr"><label for="textarea_comp-kwzc1wzc" class="_20uhs">Scrivi qui il tuo messaggio...</label><textarea id="textarea_comp-kwzc1wzc" class="_1VWbH has-custom-focus" placeholder="" aria-required="false"></textarea></div><div class="_2UgQw" id="comp-kwzc1wzg" aria-disabled="false"><button aria-disabled="false" data-testid="buttonElement" class="_1fbEI"><span class="_1Qjd7">Invia</span></button></div><div id="comp-kwzc1wzk" class="_2KixH" style="--height:19px;"><div id="text-content-comp-kwzc1wzk" class="_1Q9if _3bcaz" data-testid="richTextElement"><p class="font_8" style="text-align:center;font-size:14px"><span style="font-family:futura-lt-w01-light,sans-serif"><span style="color:#05C8A1">Il tuo modulo è stato inviato!</span></span></p></div></div></div></div></form></div></div></div></div></div></div></div>
