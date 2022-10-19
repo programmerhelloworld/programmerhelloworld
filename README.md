@@ -32,7 +32,7 @@ def hello():
 
 
 <a href="https://github.com/programmerhelloworld/MarescaMathTools">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=programmerhelloworld&repo=github-marescamathtools&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=programmerhelloworld&repo=marescamathtools&theme=buefy" />
 </a>
 <a href="https://github.com/programmerhelloworld/calculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=programmerhelloworld&repo=programmerhelloworld/calculator&theme=buefy"" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=programmerhelloworld&repo=calculator&theme=buefy"" />
