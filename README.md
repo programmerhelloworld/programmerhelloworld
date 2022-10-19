@@ -35,4 +35,4 @@ def hello():
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=programmerhelloworld&repo=github-marescamathtools&theme=buefy" />
 </a>
 <a href="https://github.com/programmerhelloworld/calculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=programmerhelloworld&repo=github-calculator&theme=buefy"" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=programmerhelloworld&repo=programmerhelloworld/calculator&theme=buefy"" />
