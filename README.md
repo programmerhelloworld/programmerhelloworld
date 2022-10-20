@@ -5,6 +5,8 @@
 def hello():
   name = input("Welcome to my profile, I'm Francesco. What's your name?")
   print("Hi, " + name + "!")
+  
+hello()
 
 ```
 
