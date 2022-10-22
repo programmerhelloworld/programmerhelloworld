@@ -15,6 +15,7 @@ hello()
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programmerhelloworld" alt="programmerhelloworld" /></a> </p>
 
 - 🔭 I’m currently working on [Maresca Math Tools](https://github.com/programmerhelloworld/MarescaMathTools)
+- 💬 Languages: **Italian (Mother Tongue) and French (A2). English (B2 Cambridge First),**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
