@@ -14,7 +14,7 @@ hello()
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programmerhelloworld" alt="programmerhelloworld" /></a> </p>
 
-- 🔭 I’m currently working on [Maresca Math Tools](https://github.com/programmerhelloworld/MarescaMathTools)
+- 🔭 I’m currently working on [Miner Cave](https://github.com/programmerhelloworld/minercave)
 - 💬 Languages : **Italian (Mother Tongue), English (C1 Cambridge Advanced Certification) and French (A2).**
 
 <h3 align="left">Connect with me:</h3>
@@ -38,5 +38,5 @@ hello()
 <a href="https://github.com/programmerhelloworld/MarescaMathTools">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=programmerhelloworld&repo=marescamathtools&theme=buefy" />
 </a>
-<a href="https://github.com/programmerhelloworld/calculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=programmerhelloworld&repo=calculator&theme=buefy"" />
+<a href="https://github.com/programmerhelloworld/minercave">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=programmerhelloworld&repo=minercave&theme=buefy"" />
