@@ -29,4 +29,3 @@
   </a>
 <a href="https://github.com/programmerhelloworld/MarescaMathTools">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=programmerhelloworld&repo=marescamathtools&theme=dark" />
----
