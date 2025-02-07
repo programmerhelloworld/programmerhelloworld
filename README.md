@@ -1,43 +1,32 @@
-<h1 align="center">Hi 👋, I'm Francesco Maresca</h1>
-<h3 align="center">Think fast, but also smart!</h3>
+[![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to;Francesco+Maresca's+Github+Profile!)](https://git.io/typing-svg)
+# About Me :
+- 🔭 I’m currently working on [Miner Cave](https://github.com/programmerhelloworld/minercave), a sandbox 3D Game
 
-```text
-def hello():
-  name = input("Welcome to my profile, I'm Francesco. What's your name?")
-  print("Hi, " + name + "!")
+# 💬 **Languages I know**
+- **Italian (Mother Tongue)**
+- **English (C1 Cambridge Advanced Certification)**
+- **French (A2)**
+
+
+
+# 💻Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+# 📊GitHub Stats :
+<div style="text-align: center;">
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=programmerhelloworld&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="Stats 1">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=programmerhelloworld&theme=dark&hide_border=true" alt="Streak Stats">
+  </div>
+  <div style="display: flex; justify-content: center; gap: 10px; margin-top: -10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerhelloworld&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
+  </div>
+
   
-hello()
-
-```
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=programmerhelloworld&label=Profile%20views&color=0e75b6&style=flat" alt="programmerhelloworld" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programmerhelloworld" alt="programmerhelloworld" /></a> </p>
-
-- 🔭 I’m currently working on [Miner Cave](https://github.com/programmerhelloworld/minercave)
-- 💬 Languages : **Italian (Mother Tongue), English (C1 Cambridge Advanced Certification) and French (A2).**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/francescomaresca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="francescomaresca" height="30" width="40" /></a>
-</p>
-<button type="button" onclick="www.google.com">Resume</button>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=programmerhelloworld&show_icons=true&locale=en&layout=compact" alt="programmerhelloworld" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programmerhelloworld&show_icons=true&locale=en" alt="programmerhelloworld" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programmerhelloworld&" alt="programmerhelloworld" /></p>
-
 #### Top Repositories
 
 <a href="https://github.com/programmerhelloworld/minercave">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=programmerhelloworld&repo=minercave&theme=buefy"" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=programmerhelloworld&repo=minercave&theme=dark"" />
   </a>
 <a href="https://github.com/programmerhelloworld/MarescaMathTools">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=programmerhelloworld&repo=marescamathtools&theme=buefy" />
-
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=programmerhelloworld&repo=marescamathtools&theme=dark" />
+---
