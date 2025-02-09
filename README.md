@@ -1,6 +1,6 @@
 [![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to;Francesco+Maresca's+Github+Profile!)]()
 # About Me :
-- 🔭 I’m currently working on [Miner Cave](https://github.com/programmerhelloworld/minercave), a sandbox 3D Game
+- 🔭 I’m currently working on [Miner Cave](https://github.com/programmerhelloworld/minercave), a sandbox 3D Game where players interact with a cube world
 
 # 💬 **Languages I know**
 - **Italian (Mother Tongue)**
